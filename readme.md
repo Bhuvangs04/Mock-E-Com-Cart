@@ -1,4 +1,4 @@
-# 🛒 Vibe Commerce Mock Shopping Cart
+# Vibe Commerce Mock Shopping Cart
 
 ## Technologies Used
 
