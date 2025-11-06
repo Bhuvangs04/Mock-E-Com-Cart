@@ -90,7 +90,7 @@ To populate the database with initial products, use a tool like Postman or VS Co
 
 ---
 
-## 💡 Key Design and Implementation Details
+## Key Design and Implementation Details
 
 ### 1. Backend Architecture (Express/Node)
 
@@ -120,7 +120,7 @@ The application implements the required REST API endpoints for a public-facing c
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 | Screen               | Image |
 | :------------------- | :---- |
